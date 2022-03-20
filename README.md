@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karanjit96
+- 👋 Hi, I’m Karan
 - 👀 I’m interested in C++, Python, HTML, CSS
 - 🌱 I’m currently learning C++
 - 📫 How to reach me karanjit96@gmail.com
